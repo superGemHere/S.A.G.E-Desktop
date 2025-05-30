@@ -5,10 +5,6 @@
   "description": "Node AI Assistant",
   "main": "index.js",
   "scripts": {
-    "start": "electron-forge start",
-    "package": "electron-forge package",
-    "make": "electron-forge make",
-    "publish": "electron-forge publish",
     "lint": "echo \"No linting configured\""
   },
   "keywords": [],
@@ -22,8 +18,8 @@
     "@picovoice/orca-node": "^1.1.1",
     "@picovoice/picollm-node": "^1.3.1",
     "@picovoice/porcupine-node": "^3.0.6",
-    "mic": "^2.1.2"
-  },
-  "devDependencies": {
+    "@picovoice/pvrecorder-node": "^1.2.8",
+    "mic": "^2.1.2",
+    "speaker": "^0.5.5"
   }
 }
