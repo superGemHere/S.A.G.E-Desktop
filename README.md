@@ -1,1 +1,1 @@
-# S.A.G.E- Offline AI Voice Assistant
+# S.A.G.E- AI Voice Assistant
